@@ -1,0 +1,7 @@
+Arsen-56
+Makich-75
+Babken-64
+Carek-68
+Varsham-74
+max = Makich,75
+Short By MarkArsen,56 Babken,64 Carek,68 Makich,75 Varsham,74
